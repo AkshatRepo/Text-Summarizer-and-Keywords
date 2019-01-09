@@ -1,3 +1,3 @@
 # Text-Summarizer-and-Keywords
 
-For this directly run summarizer.py
+For this directly run python summarize.py
